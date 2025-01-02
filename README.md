@@ -8,16 +8,13 @@
 
 
 
-
 ## :parrot: Introduction
-
-
 
 **State-of-the-art performance** in short and long video understanding, with temporal localization capabilities comparable to expert models.
 ![alt text](img/sota.png)
 **Supports ultra-long video inputs**, achieving a groundbreaking needle-in-a-haystack evaluation accuracy of **99.1% on 10,000 frames**, capable of processing videos up to three hours long.
 ![alt text](img/niah.png)
-**Highly efficient model architecture** with exceptional inference speed, **5–10 times** faster than the previous model.
+**Highly efficient model architecture** with exceptional inference speed, encoding each video frame into just **16 tokens**, making it **5–10** times faster than the previous model.
 
 ![alt text](img/model_framework.png)
 
